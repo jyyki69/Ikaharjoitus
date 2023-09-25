@@ -17,7 +17,7 @@ public class ika {
 			if (ika >=15)
 				System.out.println("Saat ajaa mopedia.");
 			if (ika >=16) 
-				System.out.println("Saat ajaa kevarilla.");
+				System.out.println("Saat ajaa kevytmoottoripyörällä.");
 		}	
 		
 		//täysi-ikäiset
@@ -54,6 +54,7 @@ public class ika {
 				System.out.println("SE ON");
 				System.out.println("TASAN");
 				System.out.println("SATA VUOTTA!");
+				System.out.println("ONNEKSI OLKOON!!);
 
 		}
 	}
