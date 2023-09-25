@@ -47,7 +47,7 @@ public class ika {
 	
 		if (ika ==65)
 			{
-				System.out.println("Eläkkeellemenokakkukahveet!");
+				System.out.println("Eläkkeelle! Keitellääs kaffet!");
 			}
 			else if (ika == 100)
 			{	
