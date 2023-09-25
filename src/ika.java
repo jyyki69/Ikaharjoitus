@@ -54,9 +54,7 @@ public class ika {
 				System.out.println("SE ON");
 				System.out.println("TASAN");
 				System.out.println("SATA VUOTTA!");
-				System.out.println("EIKÄ");
-				System.out.println("AIVAN");
-				System.out.println("SUOTTA!");
+
 		}
 	}
 }
